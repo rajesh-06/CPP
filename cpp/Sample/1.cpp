@@ -1,8 +1,9 @@
 #include "../package/utility.h"
 #include "../package/matrix_utility.cpp"
 
-int main ()
-{
+
+int main (){
+	
 //multiplying 2 vectors 
 	
 	VECTOR a = { 1,2,3 };
