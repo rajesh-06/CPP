@@ -1,7 +1,3 @@
-# CPP
----------------------
-Basics of C++
----------------------
 Unfortunately, the document provided does not contain complete step-by-step solutions for all the questions. However, I can provide detailed step-by-step solutions for the remaining questions based on standard mathematical techniques. Let's go through them:
 
 ---
