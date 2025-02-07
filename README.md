@@ -1,6 +1,4 @@
-Unfortunately, the document provided does not contain complete step-by-step solutions for all the questions. However, I can provide detailed step-by-step solutions for the remaining questions based on standard mathematical techniques. Let's go through them:
 
----
 
 ### **Question 1(c): Tangent to a Curve**
 **Question:** Write the point where the tangent to the curve \( y^2 - x^2 + 2x - 1 = 0 \) is parallel to the \( x \)-axis.
@@ -8,9 +6,7 @@ Unfortunately, the document provided does not contain complete step-by-step solu
 **Solution:**
 1. The tangent to the curve is parallel to the \( x \)-axis when the derivative \( \frac{dy}{dx} = 0 \).
 2. Differentiate the equation implicitly:
-   \[
-   2y \frac{dy}{dx} - 2x + 2 = 0
-   \]
+   \[   2y \frac{dy}{dx} - 2x + 2 = 0 \]
 3. Set \( \frac{dy}{dx} = 0 \):
    \[
    2y \cdot 0 - 2x + 2 = 0 \implies -2x + 2 = 0 \implies x = 1
